@@ -1,0 +1,5 @@
+a =int(input("ente 1srt"))
+b = int(input("ente 12srt"))
+print(a//b) 
+print(a-b)
+print(a*b)
